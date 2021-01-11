@@ -1,4 +1,4 @@
-baseURL = "https://github.com/fanny-yi/hugotest.github.io"
+baseURL = "https://hugotest.github.io/"
 title = "Azure ARC Project"
 theme = "hugo-geekdoc"
 
